@@ -1,3 +1,5 @@
+あいうえお
+
 # Handsome SF action _2025spring/
 以下はCopilotが作ってくれたReadmeファイル｡
 
